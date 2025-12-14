@@ -1,5 +1,6 @@
 # Year
 ---
-title: Welcome to my blog
+title: "Life"
+date: 2025-12-14
 ---
 
